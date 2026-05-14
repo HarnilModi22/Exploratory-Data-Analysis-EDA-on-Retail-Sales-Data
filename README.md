@@ -30,6 +30,7 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
 Outcome
 
 The dataset was successfully analyzed using EDA techniques. Visualizations and statistical analysis helped identify important trends and patterns in the retail sales dataset.
